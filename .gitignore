@@ -6,6 +6,7 @@
 build/
 .idea/
 .qtcreator/
+deps/Qt-Advanced-Docking-System
 
 # ----------------------------------------------------------------------------
 *~
